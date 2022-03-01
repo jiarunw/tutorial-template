@@ -14,7 +14,7 @@ Environment set up
 
 #. Source tf geometry library 
 
-Input commands in the terminal(under home directory):
+   Input commands in the terminal(under home directory):
 
 .. code-block:: console
 

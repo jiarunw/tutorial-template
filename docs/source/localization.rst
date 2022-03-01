@@ -8,6 +8,7 @@ Environment set up
 ~~~~~~~~~
 
 #. Source tf geometry library 
+
    Input commands in the terminal(under home directory):
    
    .. code:: bash
@@ -21,6 +22,7 @@ Environment set up
       This is a chinese tech blog, if you don’t understand chinese, that’s okay please just input the commands in blog into the terminal.
    
 #. How to run
+
    Please refer to official `repo <https://github.com/HViktorTsoi/FAST_LIO_LOCALIZATION>`_
    
    .. note::

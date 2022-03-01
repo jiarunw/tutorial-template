@@ -13,13 +13,12 @@ Environment set up
 ~~~~~~~~~
 
 #. Source tf geometry library 
-
    Input commands in the terminal(under home directory):
+   
+   .. code:: bash
 
-.. code-block:: console
+      source tf/devel/setup.bash
 
-   source tf/devel/setup.bash
-  
 #. If you have encountered ``"core dump"`` problem after python import, please refer to this `link <https://blog.csdn.net/FriendshipTang/article/details/115445902>`_
 
 .. note::

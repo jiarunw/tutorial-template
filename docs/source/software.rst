@@ -1,6 +1,14 @@
 Software
 ======
 
+Contents
+--------
+
+.. toctree::
+   localization
+   planning
+   perception
+   
 .. localization::
 
 Localization
@@ -35,4 +43,8 @@ NDT localization
 ------
 
 @todo
+
+.. planning::
+
+.. perception::
 

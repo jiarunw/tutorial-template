@@ -1,4 +1,4 @@
-software
+Software
 ======
 
 .. localization::
@@ -29,3 +29,4 @@ NDT localization
 ------
 
 @todo
+

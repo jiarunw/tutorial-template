@@ -1,17 +1,14 @@
-Welcome to Lumache's documentation!
+Welcome to Handbook of Safe-AI Scout Lab
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Hello safe-aier!  This doc is meant to guide you to play with our self delivery vehicle. Have fun with this adorable white guy! 
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This doc will continue to be updated once we have any interesting progress.
 
 Contents
 --------

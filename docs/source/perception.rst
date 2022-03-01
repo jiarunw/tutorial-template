@@ -21,9 +21,17 @@ Sampling
     
  #. Lidar sampling
  
-    #. Launch the front lidar: `roslaunch livox_ros_driver livox_lidar_msg.launch`
+    #. Launch the front lidar: 
     
-    #. Record a ros bag for 10 seconds: `rosbag record /livox/lidar_3GGDJ1500107361`
+       .. code:: 
+          
+          roslaunch livox_ros_driver livox_lidar_msg.launch
+    
+    #. Record a ros bag for 10 seconds: 
+    
+       .. code::
+       
+          rosbag record /livox/lidar_3GGDJ1500107361
 
    
 

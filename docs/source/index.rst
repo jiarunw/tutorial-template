@@ -15,7 +15,7 @@ Contents
 
 .. toctree::
 
-   Part-List
+   part-list
    Hardware
    Software
    Data

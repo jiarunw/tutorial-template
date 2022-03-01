@@ -14,10 +14,15 @@ This part uses Livox’s official calibration `package <https://github.com/Livox
 
 Sampling
 ~~~~~~
+
  #. Camera sampling
+ 
     * `Script <https://github.com/jiarunw/jiarun_zed/blob/main/image_capture.py>`_
+    
  #. Lidar sampling
+ 
     #. Launch the front lidar: `roslaunch livox_ros_driver livox_lidar_msg.launch`
+    
     #. Record a ros bag for 10 seconds: `rosbag record /livox/lidar_3GGDJ1500107361`
 
    

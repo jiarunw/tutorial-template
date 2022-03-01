@@ -4,7 +4,7 @@
 
 project = 'Safe AI Scout'
 copyright = '2022, Safe AI Lab'
-author = ['Jinchi Zhang', 'Jiayin Xia', 'Jiarun Wei']
+author = 'Safe AI Lab'
 
 release = '0.1'
 version = '0.1.0'
